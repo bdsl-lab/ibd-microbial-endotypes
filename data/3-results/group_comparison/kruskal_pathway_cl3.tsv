@@ -1,0 +1,393 @@
+	statistic	p-value	adjusted-p
+1,4-dihydroxy-6-naphthoate biosynthesis I	23.430444513908164	8.168524567011164e-06	0.001365488378805169
+1,4-dihydroxy-6-naphthoate biosynthesis II	23.135611727453167	9.465983555240182e-06	0.001365488378805169
+superpathway of menaquinol-8 biosynthesis II	22.937785357575002	1.0450166164325273e-05	0.001365488378805169
+UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis	11.232922652655022	0.0036374902520842044	0.09740824639326974
+7-(3-amino-3-carboxypropyl)-wyosine biosynthesis	10.329224061100433	0.005715279762870419	0.09740824639326974
+phosphopantothenate biosynthesis III	10.329224061100433	0.005715279762870419	0.09740824639326974
+CDP-archaeol biosynthesis	10.329224061100433	0.005715279762870419	0.09740824639326974
+archaetidylinositol biosynthesis	10.329224061100433	0.005715279762870419	0.09740824639326974
+archaetidylserine and archaetidylethanolamine biosynthesis	10.329224061100433	0.005715279762870419	0.09740824639326974
+tetrahydromethanopterin biosynthesis	10.329224061100433	0.005715279762870419	0.09740824639326974
+flavin biosynthesis II (archaea)	10.329224061100433	0.005715279762870419	0.09740824639326974
+mevalonate pathway II (archaea)	10.329224061100433	0.005715279762870419	0.09740824639326974
+superpathway of menaquinol-11 biosynthesis	10.467363668430323	0.005333850751472224	0.09740824639326974
+superpathway of menaquinol-12 biosynthesis	10.467363668430323	0.005333850751472224	0.09740824639326974
+superpathway of menaquinol-13 biosynthesis	10.467363668430323	0.005333850751472224	0.09740824639326974
+superpathway of phylloquinol biosynthesis	12.601824137062295	0.0018346307047785435	0.09740824639326974
+factor 420 biosynthesis	10.329224061100433	0.005715279762870419	0.09740824639326974
+adenosine nucleotides degradation IV	10.390466869777448	0.005542922252519054	0.09740824639326974
+superpathway of menaquinol-7 biosynthesis	10.356220710506477	0.0056386514016143075	0.09740824639326974
+methanogenesis from H2 and CO2	10.329224061100433	0.005715279762870419	0.09740824639326974
+1,4-dihydroxy-2-naphthoate biosynthesis I	12.583562610229308	0.0018514589943503439	0.09740824639326974
+coenzyme B biosynthesis	10.329224061100433	0.005715279762870419	0.09740824639326974
+photorespiration	12.094272248469906	0.0023646243089230612	0.09740824639326974
+superpathway of D-glucarate and D-galactarate degradation	9.832641264587583	0.007326036500653131	0.11487225233024109
+D-galactarate degradation I	9.832641264587583	0.007326036500653131	0.11487225233024109
+superpathway of demethylmenaquinol-8 biosynthesis	9.577536306374384	0.008322703365501106	0.12548075843370898
+myo-, chiro- and scillo-inositol degradation	9.2771313681028	0.009671559756231336	0.14041671942380313
+superpathway of menaquinol-8 biosynthesis I	8.887831090954876	0.011749841292817576	0.16449777809944607
+superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis	8.119284454522585	0.01725519144823557	0.23324258785201185
+isoprene biosynthesis II (engineered)	7.823949085032915	0.020000969281720692	0.2613459986144837
+superpathway of sulfolactate degradation	6.7436021992305095	0.034327753926712626	0.40777210725064694
+superpathway of glycerol degradation to 1,3-propanediol	6.803625699168549	0.03331282404798038	0.40777210725064694
+L-1,2-propanediol degradation	6.802001914840048	0.03333988145115453	0.40777210725064694
+myo-inositol degradation I	6.668385588309434	0.03564334611956039	0.4109468140843433
+superpathway of taurine degradation	6.280118100173695	0.043280242124450974	0.4847387117938509
+peptidoglycan biosynthesis II (staphylococci)	6.197686705102712	0.04510133858435332	0.49110346458518056
+lactose and galactose degradation I	6.115105668934234	0.047002577682516214	0.49797325544719884
+L-valine degradation I	5.83773689624387	0.053994750607145967	0.5504591934856579
+nitrate reduction VI (assimilatory)	5.809405291005248	0.05476507282127719	0.5504591934856579
+superpathway of demethylmenaquinol-9 biosynthesis	5.449795918367386	0.06555289144731143	0.6267495962767337
+superpathway of demethylmenaquinol-6 biosynthesis I	5.449795918367386	0.06555289144731143	0.6267495962767337
+superpathway of menaquinol-6 biosynthesis I	4.903843184681307	0.08612792462277818	0.7183435415346606
+nitrate reduction I (denitrification)	5.081945713608987	0.0787897113864591	0.7183435415346606
+formaldehyde assimilation I (serine pathway)	5.062889811363086	0.07954400362902181	0.7183435415346606
+superpathway of L-tryptophan biosynthesis	4.977334172438996	0.08302055209627143	0.7183435415346606
+superpathway of menaquinol-9 biosynthesis	4.903843184681307	0.08612792462277818	0.7183435415346606
+superpathway of menaquinol-10 biosynthesis	4.903843184681307	0.08612792462277818	0.7183435415346606
+methanogenesis from acetate	4.731144771982883	0.09389554049221034	0.7420510929612566
+creatinine degradation I	4.759368720859676	0.0925797947456621	0.7420510929612566
+glycerol degradation to butanol	4.715152028218711	0.0946493741022011	0.7420510929612566
+mono-trans, poly-cis decaprenyl phosphate biosynthesis	4.503035106778678	0.10523939691556312	0.7963707621497166
+arginine, ornithine and proline interconversion	4.495417082388485	0.10564101946883996	0.7963707621497166
+superpathway of polyamine biosynthesis II	4.448828823381234	0.10813072018432175	0.7997592889104551
+superpathway of purine deoxyribonucleosides degradation	4.307061325270865	0.11607361667754938	0.8272883225018066
+superpathway of lipopolysaccharide biosynthesis	4.316196506059814	0.11554464891464648	0.8272883225018066
+sucrose degradation IV (sucrose phosphorylase)	4.070657999496063	0.13063749572991523	0.8505890574371802
+ubiquinol-10 biosynthesis (prokaryotic)	3.9345044030158163	0.13984058251410303	0.8505890574371802
+ubiquinol-9 biosynthesis (prokaryotic)	3.9345044030158163	0.13984058251410303	0.8505890574371802
+creatinine degradation II	4.032774158352581	0.13313560560485804	0.8505890574371802
+ubiquinol-7 biosynthesis (prokaryotic)	3.9345044030158163	0.13984058251410303	0.8505890574371802
+ubiquinol-8 biosynthesis (prokaryotic)	3.9345044030158163	0.13984058251410303	0.8505890574371802
+superpathway of pyrimidine deoxyribonucleosides degradation	4.103088536155212	0.12853625580790978	0.8505890574371802
+superpathway of ubiquinol-8 biosynthesis (prokaryotic)	4.159853142698616	0.12493938599230037	0.8505890574371802
+heme biosynthesis II (anaerobic)	3.917401461325312	0.14104155289136916	0.8505890574371802
+mycothiol biosynthesis	4.185989782886405	0.12331726041755856	0.8505890574371802
+UDP-N-acetyl-D-glucosamine biosynthesis I	3.8301234567901474	0.14733273769201868	0.8750671693222928
+L-histidine biosynthesis	3.745404484756932	0.15370774453239347	0.899305012786541
+3-phenylpropanoate degradation	3.6841275105952067	0.15849000377843322	0.9136482570756739
+ppGpp biosynthesis	3.6358368077890177	0.16236337438192994	0.9224122138799498
+GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis	3.540686722096268	0.1702745131515434	0.953537273648643
+2-methylcitrate cycle II	3.4962681953123553	0.17409849135200772	0.9612198395772821
+superpathway of (Kdo)2-lipid A biosynthesis	3.392614313020878	0.18335939288601957	0.9713092163691849
+peptidoglycan maturation (meso-diaminopimelate containing)	3.3999641219451178	0.18268680124688044	0.9713092163691849
+purine nucleobases degradation I (anaerobic)	3.4235904257999437	0.18054139128490346	0.9713092163691849
+chlorophyllide a biosynthesis III (aerobic, light independent)	3.246830492518687	0.1972239791150872	0.9970167311766491
+guanosine nucleotides degradation III	3.2350814814815294	0.1983859822239251	0.9970167311766491
+chlorophyllide a biosynthesis II (anaerobic)	3.246830492518687	0.1972239791150872	0.9970167311766491
+D-galacturonate degradation I	3.2631195767195322	0.19562420367640165	0.9970167311766491
+superpathway of L-threonine metabolism	3.2057535656793337	0.2013165401913813	0.9989377690509046
+TCA cycle I (prokaryotic)	0.38482398589064815	0.824966917917564	1.0
+superpathway of glyoxylate bypass and TCA	0.2365909815548443	0.888433489921476	1.0
+teichoic acid (poly-glycerol) biosynthesis	0.12096790123456458	0.9413088763235855	1.0
+superpathway of thiamin diphosphate biosynthesis I	0.19161461325273876	0.9086390879318367	1.0
+superpathway of L-threonine biosynthesis	0.8017479465860333	0.6697344601481177	1.0
+tRNA charging	0.8957887629125594	0.6389721677779245	1.0
+L-tryptophan biosynthesis	0.0864282186949481	0.9577063142394747	1.0
+TCA cycle VIII (helicobacter)	2.279698059964744	0.31986730854449763	1.0
+L-rhamnose degradation I	0.9241606449987216	0.6299717370052194	1.0
+flavin biosynthesis I (bacteria and plants)	0.09058846056939274	0.955716239798842	1.0
+formaldehyde oxidation I	1.455278407659364	0.4830480229716617	1.0
+adenosine nucleotides degradation II	0.6732835474930425	0.7141646266037842	1.0
+superpathway of L-serine and glycine biosynthesis I	0.4228273116654009	0.8094391683864746	1.0
+sulfate reduction I (assimilatory)	0.7563755102040659	0.6851018572204113	1.0
+superpathway of sulfate assimilation and cysteine biosynthesis	0.7740388007054548	0.6790779204476564	1.0
+phosphatidylglycerol biosynthesis I (plastidic)	0.8913898715041455	0.6403790990347297	1.0
+phosphatidylglycerol biosynthesis II (non-plastidic)	0.8913898715041455	0.6403790990347297	1.0
+mycolate biosynthesis	1.661315192743757	0.4357626361532754	1.0
+NAD salvage pathway I	0.015486419753074188	0.992286691545622	1.0
+NAD biosynthesis I (from aspartate)	0.966491912320464	0.6167781043419378	1.0
+pyridoxal 5'-phosphate biosynthesis I	1.4018338120433214	0.4961301904160774	1.0
+superpathway of pyrimidine ribonucleotides de novo biosynthesis	0.44037127739989046	0.8023698332433793	1.0
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	0.6569328294280581	0.7200271101361408	1.0
+phenylacetate degradation I (aerobic)	1.9640806860142201	0.3745461161543008	1.0
+allantoin degradation IV (anaerobic)	1.0032990492565004	0.6055309971623146	1.0
+2-methylcitrate cycle I	3.1033907574514683	0.2118884379881611	1.0
+aspartate superpathway	0.4136457545981216	0.8131636669778561	1.0
+superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	1.0191689594356035	0.6007451487517278	1.0
+(5Z)-dodec-5-enoate biosynthesis	1.6611281431091243	0.4358033926800585	1.0
+superpathway of purine nucleotides de novo biosynthesis II	0.29327286470140734	0.8636079002409741	1.0
+glucose degradation (oxidative)	1.3389656938037955	0.5119732779022133	1.0
+dTDP-L-rhamnose biosynthesis I	0.12420256991686074	0.9397876956127695	1.0
+enterobacterial common antigen biosynthesis	0.39960533272630666	0.8188923321370523	1.0
+enterobactin biosynthesis	0.11794223600474367	0.9427339968049632	1.0
+fatty acid &beta;-oxidation I	1.3226102292769042	0.5161772242404148	1.0
+fatty acid elongation -- saturated	0.36045109599393754	0.8350818391324542	1.0
+chlorophyllide a biosynthesis I (aerobic, light-dependent)	2.3278297768972624	0.3122613166221259	1.0
+coenzyme A biosynthesis I	1.697264197530842	0.4279999934237456	1.0
+adenosylcobalamin salvage from cobinamide I	0.2490356261022839	0.8829225336820627	1.0
+reductive acetyl coenzyme A pathway	1.3329845157584643	0.5135066712988947	1.0
+colanic acid building blocks biosynthesis	1.5237708238851155	0.46678551384634503	1.0
+superpathway of aromatic amino acid biosynthesis	1.5107499118166174	0.4698344145092983	1.0
+L-lysine biosynthesis I	0.08818906525578996	0.9568634983764077	1.0
+chorismate biosynthesis I	1.8155166540690857	0.40342756382250455	1.0
+superpathway of L-aspartate and L-asparagine biosynthesis	0.330885966238327	0.8475181846706821	1.0
+L-arginine degradation II (AST pathway)	0.31857474359569943	0.852751267089829	1.0
+biotin biosynthesis I	0.6014758377424982	0.7402717585836558	1.0
+superpathway of branched amino acid biosynthesis	1.7678625346434842	0.4131554901857074	1.0
+Calvin-Benson-Bassham cycle	0.8944536155203195	0.6393988712018298	1.0
+catechol degradation to &beta;-ketoadipate	0.4046532409840393	0.8168280915743306	1.0
+pyruvate fermentation to butanoate	2.30652194507428	0.31560590728985094	1.0
+L-tyrosine degradation I	0.8792408685357463	0.6442809216379066	1.0
+homolactic fermentation	0.5002271604938073	0.7787123317094337	1.0
+glycolysis III (from glucose)	0.698548148148177	0.7051998267918532	1.0
+superpathway of arginine and polyamine biosynthesis	0.9108817334341097	0.6341683226031486	1.0
+superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation	0.2585314161716181	0.8787404460811009	1.0
+L-arginine biosynthesis I (via L-ornithine)	1.1921898715041266	0.5509589708041722	1.0
+L-arginine biosynthesis II (acetyl cycle)	2.1786702947845242	0.33644010244452816	1.0
+formaldehyde assimilation II (RuMP Cycle)	2.313447619047622	0.3145149055516667	1.0
+L-lysine biosynthesis II	0.2052692365835469	0.9024566544021455	1.0
+L-lysine biosynthesis III	0.6624120937264024	0.7180572003631192	1.0
+superpathway of L-isoleucine biosynthesis I	1.0160084656084791	0.6016952248986203	1.0
+glycine betaine degradation I	0.9841269841283509	0.6113635478664896	1.0
+superpathway of phospholipid biosynthesis I (bacteria)	1.0858247417485813	0.5810535423466576	1.0
+superpathway of polyamine biosynthesis I	1.509376064499861	0.4701572657585307	1.0
+polyisoprenoid biosynthesis (E. coli)	0.3027059712773621	0.8595442383318455	1.0
+protocatechuate degradation II (ortho-cleavage pathway)	0.24653624014241526	0.8840266055059461	1.0
+superpathway of histidine, purine, and pyrimidine biosynthesis	1.1005291005291724	0.576797198343165	1.0
+CMP-3-deoxy-D-manno-octulosonate biosynthesis I	1.272421264802233	0.5292943194331325	1.0
+incomplete reductive TCA cycle	0.5727991937516208	0.7509624737245815	1.0
+superpathway of N-acetylneuraminate degradation	1.1418719072813701	0.5649963807317734	1.0
+hexitol fermentation to lactate, formate, ethanol and acetate	2.5306122448979522	0.28215290957909905	1.0
+phosphopantothenate biosynthesis I	0.13485149911821281	0.9347971271380993	1.0
+pantothenate and coenzyme A biosynthesis I	0.29097666918619325	0.8645999759256535	1.0
+pentose phosphate pathway	1.9660593600402763	0.37417574705864026	1.0
+peptidoglycan biosynthesis I (meso-diaminopimelate containing)	0.4931966742252598	0.781454511778135	1.0
+octane oxidation	1.5802297811263306	0.4537926557934612	1.0
+reductive TCA cycle I	1.9306440917107466	0.38086052543333043	1.0
+coenzyme M biosynthesis I	2.7868400172988417	0.2482249199258694	1.0
+glycolysis V (Pyrococcus)	1.4868000977385605	0.47549445956686254	1.0
+adenosylcobalamin biosynthesis II (late cobalt incorporation)	1.2079883796312112	0.5466239501713159	1.0
+superpathway of L-lysine, L-threonine and L-methionine biosynthesis I	1.2625866465104991	0.5319034328823035	1.0
+superpathway of sulfur oxidation (Acidianus ambivalens)	0.08212632940577304	0.9597685045406971	1.0
+superpathway of L-methionine biosynthesis (by sulfhydrylation)	2.8143939531368574	0.24482858250314807	1.0
+superpathway of L-methionine biosynthesis (transsulfuration)	0.5698950869236228	0.7520537034185053	1.0
+catechol degradation I (meta-cleavage pathway)	2.4214675543240065	0.2979785493358582	1.0
+catechol degradation III (ortho-cleavage pathway)	0.42032367437636664	0.8104530739095785	1.0
+catechol degradation to 2-oxopent-4-enoate II	1.4204211122652017	0.4915406896576159	1.0
+toluene degradation IV (aerobic) (via catechol)	1.460334989389018	0.48182827965059993	1.0
+toluene degradation I (aerobic) (via o-cresol)	2.663989386855713	0.2639502360465403	1.0
+toluene degradation III (aerobic) (via p-cresol)	0.34189701108332077	0.8428649752294882	1.0
+toluene degradation II (aerobic) (via 4-methylcatechol)	2.663989386855713	0.2639502360465403	1.0
+superpathway of aerobic toluene degradation	0.0	1.0	1.0
+tetrapyrrole biosynthesis I (from glutamate)	0.5016735701688049	0.7781493667781395	1.0
+tetrapyrrole biosynthesis II (from glycine)	0.3618749307130429	0.8344875414450493	1.0
+L-lysine biosynthesis VI	0.3554604182413641	0.8371682533831927	1.0
+pyruvate fermentation to acetate and lactate II	1.1576743764172193	0.5605498016628285	1.0
+L-isoleucine biosynthesis II	1.6570017636684042	0.43670346595161247	1.0
+L-isoleucine biosynthesis III	1.655197379692595	0.43709763410062097	1.0
+L-isoleucine biosynthesis IV	2.4007997984379017	0.3010737886622927	1.0
+superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	0.9424253968253993	0.6242447884141693	1.0
+L-arginine biosynthesis III (via N-acetyl-L-citrulline)	1.3468799193751693	0.5099513450448866	1.0
+glutaryl-CoA degradation	1.8231292517007205	0.40189491667098204	1.0
+aerobic respiration I (cytochrome c)	2.382757962611789	0.30380203774976056	1.0
+S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation	1.5407379645625474	0.4628422562082809	1.0
+urea cycle	0.8343768203578179	0.6588967653910472	1.0
+biotin biosynthesis II	1.9775000251952974	0.37204144761425945	1.0
+4-aminobutanoate degradation V	1.1321485512723939	0.5677498991450535	1.0
+L-histidine degradation II	0.4551104738021677	0.7964784252824031	1.0
+L-glutamate degradation VIII (to propanoate)	0.7511449251398823	0.686895943999607	1.0
+acetyl-CoA fermentation to butanoate II	2.3771831695640913	0.3046500357980795	1.0
+succinate fermentation to butanoate	1.69980388007059	0.42745684629689396	1.0
+UMP biosynthesis	1.4923916351726234	0.4741669436101663	1.0
+urate biosynthesis/inosine 5'-phosphate degradation	0.8272415217938942	0.6612516762131347	1.0
+allantoin degradation to glyoxylate III	1.7277645754598439	0.4215224302178371	1.0
+ethylmalonyl-CoA pathway	0.5996725405592455	0.7409395245720956	1.0
+superpathway of CDP-glucose-derived O-antigen building blocks biosynthesis	0.0	1.0	1.0
+2-nitrobenzoate degradation I	0.7714285714289109	0.6799647735787784	1.0
+L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	0.8495348545179362	0.6539218518433795	1.0
+2-amino-3-carboxymuconate semialdehyde degradation to 2-oxopentenoate	0.8543180583567523	0.6523597997353248	1.0
+L-tryptophan degradation IX	0.9841269841283509	0.6113635478664896	1.0
+GDP-mannose biosynthesis	0.30053555051654257	0.8604775309795458	1.0
+CDP-diacylglycerol biosynthesis I	0.6711873015872811	0.7149135513551124	1.0
+catechol degradation II (meta-cleavage pathway)	1.4001791877797196	0.4965408147753977	1.0
+meta cleavage pathway of aromatic compounds	0.8543180583567523	0.6523597997353248	1.0
+aromatic compounds degradation via &beta;-ketoadipate	0.42032367437636664	0.8104530739095785	1.0
+glycolysis II (from fructose 6-phosphate)	0.5709544973545349	0.751655442139352	1.0
+L-glutamate and L-glutamine biosynthesis	0.039652910052950574	0.9803687966211594	1.0
+adenosylcobalamin biosynthesis I (early cobalt insertion)	0.12962916018138548	0.9372412304509172	1.0
+adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I	0.221539329805978	0.8951449084745624	1.0
+superpathway of bacteriochlorophyll a biosynthesis	0.9841269841283509	0.6113635478664896	1.0
+heterolactic fermentation	0.6235928445452146	0.7321305585334335	1.0
+Bifidobacterium shunt	0.49036190476192587	0.7825629188056563	1.0
+superpathway of (R,R)-butanediol biosynthesis	0.852235222978095	0.6530395326520839	1.0
+acetylene degradation	2.5517762660619496	0.2791829065208532	1.0
+L-glutamate degradation V (via hydroxyglutarate)	0.2902800705467712	0.8649011679585357	1.0
+L-lysine fermentation to acetate and butanoate	0.8768800937968694	0.6450418717197575	1.0
+protocatechuate degradation I (meta-cleavage pathway)	0.0	1.0	1.0
+methylerythritol phosphate pathway I	1.0664747795414655	0.5867025071384923	1.0
+pentose phosphate pathway (non-oxidative branch)	0.41521793902745685	0.8125246965277462	1.0
+O-antigen building blocks biosynthesis (E. coli)	1.7487866969009929	0.417114986392242	1.0
+superpathway of L-arginine and L-ornithine degradation	0.2585314161716181	0.8787404460811009	1.0
+superpathway of ornithine degradation	0.2039843199055089	0.903036631490979	1.0
+ectoine biosynthesis	0.9841269841283509	0.6113635478664896	1.0
+TCA cycle IV (2-oxoglutarate decarboxylase)	0.21453697015440243	0.8982844646374961	1.0
+pyruvate fermentation to propanoate I	0.9338114386495704	0.6269391958767876	1.0
+superpathway of S-adenosyl-L-methionine biosynthesis	0.43976820357772795	0.8026118138456484	1.0
+superpathway of methylglyoxal degradation	1.512833205541183	0.46934526776894425	1.0
+methylgallate degradation	0.6748351611071313	0.7136107876888933	1.0
+NAD salvage pathway II	1.2694687830688167	0.5300762623640447	1.0
+NAD biosynthesis II (from tryptophan)	0.8495348545179362	0.6539218518433795	1.0
+lipid IVA biosynthesis	0.3049231544469535	0.8585918828066668	1.0
+L-methionine biosynthesis III	0.7825914840009887	0.6761801515951625	1.0
+L-isoleucine biosynthesis I (from threonine)	1.2730404635928494	0.5291304755961813	1.0
+ketogluconate metabolism	1.4563865598627947	0.48278045174040984	1.0
+L-leucine degradation I	0.7723901373500509	0.6796379366769563	1.0
+phospholipases	0.0	1.0	1.0
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	1.0668424288234064	0.5865946666729323	1.0
+S-adenosyl-L-methionine cycle I	1.313670546737228	0.5184896186678616	1.0
+chorismate biosynthesis from 3-dehydroquinate	1.7472354749307328	0.4174386308526251	1.0
+chorismate biosynthesis II (archaea)	2.278096631338032	0.3201235334446066	1.0
+superpathway of salicylate degradation	0.3702827796832715	0.8309867824559967	1.0
+superpathway of phenylethylamine degradation	2.000128402424476	0.3678558236235073	1.0
+5-aminoimidazole ribonucleotide biosynthesis I	0.362971428571484	0.8340301599349222	1.0
+5-aminoimidazole ribonucleotide biosynthesis II	0.7058688838498597	0.7026232544954502	1.0
+inosine-5'-phosphate biosynthesis I	1.8863165532879975	0.3893960707401994	1.0
+superpathway of guanosine nucleotides de novo biosynthesis II	0.26902252456540054	0.874143033975165	1.0
+superpathway of adenosine nucleotides de novo biosynthesis II	0.3086383471907652	0.85699844607956	1.0
+CMP-pseudaminate biosynthesis	1.9841269841273372	0.3708107360119059	1.0
+superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	1.916615369110616	0.38354141011864507	1.0
+TCA cycle VI (obligate autotrophs)	0.7151762156714767	0.6993610770371852	1.0
+superpathay of heme biosynthesis from glutamate	2.7908950365331293	0.2477221513697777	1.0
+superpathway of heme biosynthesis from glycine	0.1738100515520508	0.9167641604633373	1.0
+glycogen degradation II (eukaryotic)	0.0	1.0	1.0
+palmitate biosynthesis II (bacteria and plants)	0.7688239858906627	0.6808508636357744	1.0
+cis-vaccenate biosynthesis	2.9377418997228233	0.23018522919204906	1.0
+stearate biosynthesis II (bacteria and plants)	1.685315595868019	0.4305646475196605	1.0
+4-deoxy-L-threo-hex-4-enopyranuronate degradation	0.7916569412950594	0.6731221462414236	1.0
+8-amino-7-oxononanoate biosynthesis I	0.5881179138322068	0.7452325535349433	1.0
+pyrimidine deoxyribonucleotides de novo biosynthesis III	0.03295782312926576	0.9836561229405192	1.0
+norspermidine biosynthesis	0.6473796963727072	0.7234745945440535	1.0
+chondroitin sulfate degradation I (bacterial)	1.6493529971938554	0.4383767850336979	1.0
+pyruvate fermentation to acetone	0.03679556563366759	0.981770423270207	1.0
+superpathway of Clostridium acetobutylicum acidogenic fermentation	2.3204539178634604	0.31341504046716145	1.0
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	0.6618896447467932	0.7182447989905456	1.0
+superpathway of 2,3-butanediol biosynthesis	2.1750583018392717	0.3370482610836728	1.0
+mycolyl-arabinogalactan-peptidoglycan complex biosynthesis	1.208674856915869	0.5464363599047507	1.0
+Kdo transfer to lipid IVA III (Chlamydia)	0.14048962284380812	0.9321655871872506	1.0
+peptidoglycan biosynthesis V (&beta;-lactam resistance)	1.0056481733434453	0.6048201809674829	1.0
+peptidoglycan biosynthesis IV (Enterococcus faecium)	0.3437778785587966	0.8420726891750849	1.0
+L-tryptophan degradation XII (Geobacillus)	0.7714285714289109	0.6799647735787784	1.0
+superpathway of vanillin and vanillate degradation	0.0	1.0	1.0
+syringate degradation	0.0	1.0	1.0
+purine nucleotides degradation II (aerobic)	0.5144687326782673	0.7731869835263498	1.0
+peptidoglycan biosynthesis III (mycobacteria)	0.6738624338623822	0.713957946432408	1.0
+UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	0.605679617032024	0.7387174231330191	1.0
+4-methylcatechol degradation (ortho cleavage)	0.3854883255437263	0.8246929343066023	1.0
+sucrose degradation III (sucrose invertase)	1.8899736961450913	0.38868468282088814	1.0
+2-aminophenol degradation	0.9841269841283509	0.6113635478664896	1.0
+adenosylcobalamin salvage from cobinamide II	0.20530954900482357	0.902438464479048	1.0
+superpathway of 5-aminoimidazole ribonucleotide biosynthesis	0.7058688838498597	0.7026232544954502	1.0
+palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	1.7037254724112358	0.42661951173917056	1.0
+galactose degradation I (Leloir pathway)	0.13485472411184674	0.9347956197819226	1.0
+androstenedione degradation	0.9841269841283509	0.6113635478664896	1.0
+TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase)	0.17490592088682888	0.9162619711940192	1.0
+methyl ketone biosynthesis	0.9907069724721874	0.60935547044988	1.0
+protein N-glycosylation (bacterial)	1.9841269841273372	0.3708107360119059	1.0
+fatty acid salvage	2.9723385501899875	0.2262376519077075	1.0
+CMP-legionaminate biosynthesis I	0.022534643487063022	0.9887959167936159	1.0
+isopropanol biosynthesis	0.3997567399827286	0.8188303413628882	1.0
+thiazole biosynthesis II (Bacillus)	3.038589065255792	0.21886623548987807	1.0
+thiazole biosynthesis I (E. coli)	0.2632868732678162	0.8766535218889177	1.0
+superpathway of thiamin diphosphate biosynthesis II	0.14433298059964272	0.9303759843393556	1.0
+thiamin salvage II	0.03269337364582725	0.9837861952165127	1.0
+superpathway of glucose and xylose degradation	0.8520433358528976	0.6531021905971297	1.0
+chitin derivatives degradation	1.1604987301254268	0.5597587648807252	1.0
+cinnamate and 3-hydroxycinnamate degradation to 2-oxopent-4-enoate	1.367885446717447	0.5046234742435436	1.0
+queuosine biosynthesis	0.06014452003023507	0.9703754116731176	1.0
+preQ0 biosynthesis	0.4501833207357322	0.7984430298233322	1.0
+L-rhamnose degradation II	0.0	1.0	1.0
+methylaspartate cycle	2.0746089281486433	0.3544087169922916	1.0
+starch degradation III	0.0	1.0	1.0
+starch degradation V	1.0514188964474442	0.5911358352990042	1.0
+adenine and adenosine salvage III	1.5131331821617096	0.46927487674434876	1.0
+superpathway of tetrahydrofolate biosynthesis	1.6530334089191001	0.4375708232990356	1.0
+superpathway of L-phenylalanine biosynthesis	0.925437742504414	0.6295695977446523	1.0
+superpathway of L-tyrosine biosynthesis	0.9267519274376355	0.6291560481897954	1.0
+2-heptyl-3-hydroxy-4(1H)-quinolone biosynthesis	0.0	1.0	1.0
+TCA cycle VII (acetate-producers)	0.1839471907281336	0.9121292336674618	1.0
+ergothioneine biosynthesis I (bacteria)	0.0	1.0	1.0
+dTDP-N-acetylthomosamine biosynthesis	2.325613907785282	0.31260747344945655	1.0
+superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	1.0025521793903067	0.6057571658167378	1.0
+superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	1.2944012093726656	0.5235092367077447	1.0
+adenosine deoxyribonucleotides de novo biosynthesis II	0.8981671957672006	0.6382127432289773	1.0
+guanosine ribonucleotides de novo biosynthesis	1.19148843537414	0.5511522359571126	1.0
+guanosine deoxyribonucleotides de novo biosynthesis II	0.8981671957672006	0.6382127432289773	1.0
+superpathway of guanosine nucleotides de novo biosynthesis I	0.2851603930461124	0.8671180116541393	1.0
+superpathway of adenosine nucleotides de novo biosynthesis I	0.38190214159737934	0.8261730111478329	1.0
+inosine-5'-phosphate biosynthesis III	0.5176905013858004	0.7719424713637573	1.0
+D-fructuronate degradation	1.6502147644242768	0.4381879363485619	1.0
+pyrimidine deoxyribonucleotides de novo biosynthesis IV	0.2837688082640284	0.867721555715117	1.0
+pyrimidine deoxyribonucleosides salvage	1.3615133282942793	0.5062337984439688	1.0
+superpathway of pyrimidine deoxyribonucleoside salvage	0.0899837742504701	0.956005237752407	1.0
+superpathway of pyrimidine nucleobases salvage	0.6561427059713196	0.7203116214868164	1.0
+pyrimidine deoxyribonucleotides biosynthesis from CTP	0.552239858906546	0.7587219321981318	1.0
+superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	0.04719617031997814	0.9766781723357356	1.0
+adenosine ribonucleotides de novo biosynthesis	1.7177267825649096	0.423643325470218	1.0
+nicotinate degradation I	0.9841269841283509	0.6113635478664896	1.0
+vanillin and vanillate degradation I	0.0	1.0	1.0
+vanillin and vanillate degradation II	0.0	1.0	1.0
+pyruvate fermentation to isobutanol (engineered)	0.13898271604938373	0.9328681951736295	1.0
+pyrimidine deoxyribonucleotides de novo biosynthesis I	0.2644430335097354	0.8761468923652812	1.0
+pyrimidine deoxyribonucleotides de novo biosynthesis II	0.2744131015369362	0.8717901386110687	1.0
+superpathway of pyrimidine ribonucleosides salvage	0.2385140841522002	0.8875796261281614	1.0
+pyrimidine deoxyribonucleotide phosphorylation	0.4904264046359117	0.7825376816077831	1.0
+CDP-diacylglycerol biosynthesis II	0.6711873015872811	0.7149135513551124	1.0
+polymyxin resistance	0.06076608967902731	0.9700738805792735	1.0
+superpathway of heme biosynthesis from uroporphyrinogen-III	1.558992592592574	0.45863697027348294	1.0
+tRNA processing	0.4688157218442939	0.7910391161483825	1.0
+methylphosphonate degradation I	0.48027251196771203	0.7865206856152294	1.0
+oleate biosynthesis IV (anaerobic)	1.5559159486016938	0.4593430445583384	1.0
+superpathway of purine nucleotides de novo biosynthesis I	0.372488384983626	0.8300708731564687	1.0
+mevalonate pathway I	1.916615369110616	0.38354141011864507	1.0
+superpathway of L-alanine biosynthesis	0.9737481481481609	0.614544415146812	1.0
+ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	1.0861778785588854	0.5809509557064239	1.0
+anhydromuropeptides recycling	0.40247921390778174	0.8177164775244968	1.0
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation	1.3766784321612213	0.502409770643371	1.0
+purine ribonucleosides degradation	2.2033140841521686	0.33231995905095074	1.0
+sulfoglycolysis	1.9876053805708436	0.3701663831303404	1.0
+mannan degradation	2.5078179894180153	0.28538703720674646	1.0
+L-methionine salvage cycle III	1.5407379645625474	0.4628422562082809	1.0
+6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)	0.8707789367599048	0.6470126270407457	1.0
+methylerythritol phosphate pathway II	1.0664747795414655	0.5867025071384923	1.0
+methanol oxidation to carbon dioxide	3.1493826370675118	0.20707146193933215	1.0
+heparin degradation	1.2023044024102298	0.5481796588179435	1.0
+gondoate biosynthesis (anaerobic)	1.1331966742252462	0.5674524412445878	1.0
+superpathway of demethylmenaquinol-6 biosynthesis II	1.9841269841273372	0.3708107360119059	1.0
+cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation)	1.2079883796312112	0.5466239501713159	1.0
+cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)	1.4225463340891906	0.4910186505684342	1.0
+taxadiene biosynthesis (engineered)	1.6301391786344084	0.4426085254645462	1.0
+L-arginine biosynthesis IV (archaebacteria)	1.114156311413467	0.5728804884243591	1.0
+aromatic biogenic amine degradation (bacteria)	0.3458144719753958	0.8412156457638491	1.0
+3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-oxopent-4-enoate	1.367885446717447	0.5046234742435436	1.0
+heme biosynthesis I (aerobic)	2.845031393298086	0.24110670198504058	1.0
+superpathway of hexitol degradation (bacteria)	1.672112471655339	0.43341644959838965	1.0
+L-histidine degradation I	1.1186519526329448	0.5715942020676541	1.0
+L-methionine biosynthesis I	0.621657848324503	0.7328392362322355	1.0
+L-ornithine biosynthesis	2.9599943562610633	0.22763833074856177	1.0
+glycogen degradation I (bacterial)	0.30480221718318035	0.8586438022529022	1.0
+glycogen biosynthesis I (from ADP-D-Glucose)	0.006448374905517085	0.996781004657995	1.0
+superpathway of glycol metabolism and degradation	0.6597101774540121	0.7190279211341273	1.0
+glycolysis I (from glucose 6-phosphate)	0.4462988158226153	0.7999953147360415	1.0
+superpathway of glycolysis and Entner-Doudoroff	1.2203843789367852	0.5432464527939977	1.0
+superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass	0.30065893332743326	0.8604244485486872	1.0
+glyoxylate cycle	0.7248765578448505	0.6959772688200087	1.0
+gallate degradation II	0.6782597263291104	0.7123899298712122	1.0
+gallate degradation I	0.7293483259175252	0.6944228827160928	1.0
+superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation	0.6581228521038156	0.7195988132754099	1.0
+D-glucarate degradation I	1.2827476946333718	0.5265685021541049	1.0
+gluconeogenesis I	0.3991558578986769	0.8190763885633776	1.0
+glucose and glucose-1-phosphate degradation	0.5291005291005035	0.7675510672887456	1.0
+superpathway of &beta;-D-glucuronide and D-glucuronate degradation	1.3078462081129487	0.5200017489450397	1.0
+superpathway of fatty acid biosynthesis initiation (E. coli)	1.754854522549806	0.4158514136397895	1.0
+mixed acid fermentation	0.9153999496095366	0.6327372848596711	1.0
+superpathway of tetrahydrofolate biosynthesis and salvage	0.885301083396314	0.6423316359939735	1.0
+superpathway of fucose and rhamnose degradation	0.16718528596624083	0.9198058691642843	1.0
+fucose degradation	0.2397282942806669	0.8870409355796545	1.0
+superpathway of hexuronide and hexuronate degradation	2.628040917107569	0.2687374338089101	1.0
+superpathway of chorismate metabolism	0.3020688624830402	0.8598180935450959	1.0
+aerobactin biosynthesis	1.9722757911213302	0.37301453377220944	1.0
+4-hydroxyphenylacetate degradation	2.1326131457788513	0.3442777368179405	1.0
+L-valine biosynthesis	1.2730404635928494	0.5291304755961813	1.0
+N10-formyl-tetrahydrofolate biosynthesis	0.12509911816584918	0.9393665075172238	1.0

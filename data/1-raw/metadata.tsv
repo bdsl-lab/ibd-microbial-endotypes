@@ -1,0 +1,485 @@
+sample	cohort	cohort_snuh	disease_status	age (year)	sex	BMI	C-reactive protein
+PD1	IBD	Predict	UC	41	1	29.12	5.46
+PD2	IBD	Predict	UC	35	1	26.69	0.04
+PD3	IBD	Predict	CD	28	1	22.55	0.64
+PD4	IBD	Predict	CD	58	1	24.03	0.33
+PD5	IBD	Predict	UC	67	1	24.54	0.11
+PD6	IBD	Predict	CD	31	1	23.92	1.12
+PD7	IBD	Predict	UC	28	1	21.63	0.08
+PD8	IBD	Predict	CD	22	0	20.22	0.85
+PD9	IBD	Predict	UC	59	1	26.36	0.27
+PD10	IBD	Predict	UC	44	1	24.71	0.01
+PD11	IBD	Predict	UC	61	0	25.05	0.04
+PD12	IBD	Predict	CD	54	1	25.62	0.25
+PD13	IBD	Predict	CD	19	1	30.47	0.01
+PD14	IBD	Predict	UC	47	1	17.38	1.26
+PD15	IBD	Predict	CD	24	0	25.04	0.23
+PD16	IBD	Predict	CD	22	1	29.2	0.93
+PD17	IBD	Predict	UC	22	1	23.42	0.06
+PD18	IBD	Predict	UC	37	0	18.22	0.06
+PD19	IBD	Predict	CD	35	1	23.59	0.33
+PD20	IBD	Predict	UC	21	1	19.72	
+PD21	IBD	Predict	UC	52	1	25.31	0.06
+PD22	IBD	Predict	UC	73	1	23.62	0.22
+PD23	IBD	Predict	CD	25	1	26.79	1.16
+PD24	IBD	Predict	UC	38	1	23.11	0.06
+PD25	IBD	Predict	UC	21	0	20.28	0.51
+PD26	IBD	Predict	UC	41	1	17.87	0.09
+PD27	IBD	Predict	UC	25	1	28	2.42
+PD28	IBD	Predict	CD	18	1	22.72	0.45
+PD29	IBD	Predict	CD	24	1	25	0.26
+PD30	IBD	Predict	CD	21	1	20.76	0.34
+PD31	IBD	Predict	UC	27	1	18.07	2.05
+PD32	IBD	Predict	UC	18	1	18.9	0.49
+PD33	IBD	Predict	UC	42	1	23.72	0.07
+PD34	IBD	Predict	UC	40	0	0	12.67
+PD35	IBD	Predict	UC	33	1	16.56	0.69
+PD36	IBD	Predict	UC	47	1	24.54	0.06
+PD37	IBD	Predict	UC	56	1	21.48	0.1
+PD38	IBD	Predict	UC	23	1	17.65	3.73
+PD39	IBD	Predict	UC	41	0	23.15	0.06
+PD40	IBD	Predict	UC	27	1	18.31	0.07
+PD41	IBD	Predict	UC	83	1	19.71	0.61
+PD42	IBD	Predict	UC	44	1	25.35	0.08
+PD43	IBD	Predict	CD	21	1	20	3.92
+PD44	IBD	Predict	CD	23	1	0	0.93
+PD45	IBD	Predict	UC	30	0	17.44	0.06
+PD46	IBD	Predict	CD	17	0	18.55	3.31
+PD47	IBD	Predict	UC	53	0	24.75	0.06
+PD48	IBD	Predict	UC	50	1	21.26	0.06
+PD49	IBD	Predict	UC	22	1	27.99	0.06
+PD50	IBD	Predict	CD	27	1	18.87	1.99
+PD51	IBD	Predict	UC	27	1	21.71	0.06
+PD52	IBD	Predict	CD	18	1	19.56	4.35
+PD53	IBD	Predict	UC	31	1	26.42	0.06
+PD54	IBD	Predict	UC	25	0	28.91	0.06
+PD55	IBD	Predict	CD	23	1	22.74	1.92
+PD56	IBD	Predict	CD	20	1	19.97	0.85
+PD57	IBD	Predict	CD	19	1	24.77	0.44
+PD58	IBD	Predict	UC	79	0	0	0.07
+PD59	IBD	Predict	UC	40	0	0	1.53
+PD60	IBD	Predict	UC	21	0	20.83	0.06
+PD61	IBD	Predict	UC	30	1	24.86	0.06
+PD62	IBD	Predict	UC	31	1	23.89	0.38
+PD63	IBD	Predict	UC	32	1	0	0.11
+PD64	IBD	Predict	UC	55	1	21.08	0.13
+PD65	IBD	Predict	UC	65	1	0	0.11
+PD66	IBD	Predict	UC	56	1	26.61	0.06
+PD67	IBD	Predict	CD	23	1	0	0.13
+PD68	IBD	Predict	CD	28	0	0	5.6
+PD69	IBD	Predict	CD	30	1	21.14	3.7
+PD70	IBD	Predict	UC	50	1	0	1.93
+PD71	IBD	Predict	CD	41	1	0	0.12
+PD72	IBD	Predict	UC	25	1	0	0.3
+PD73	IBD	Predict	CD	29	1	27.12	0.31
+PD74	IBD	Predict	CD	87	0	0	0.11
+PD75	IBD	Predict	UC	62	0	0	0.06
+PD76	IBD	Predict	CD	24	1	16.18	3.73
+PD77	IBD	Predict	CD	26	0	20.28	0.06
+PD78	IBD	Predict	UC	35	1	26.06	0.06
+PD79	IBD	Predict	UC	52	1	25.31	0.06
+PD80	IBD	Predict	CD	48	1	0	0.57
+PD81	IBD	Predict	CD	38	1	0	0.2
+PD82	IBD	Predict	CD	25	1	0	4.48
+PD83	IBD	Predict	UC	48	1	21.45	0.06
+PD84	IBD	Predict	UC	25	0	22.1	0.06
+PD85	IBD	Predict	UC	79	1	0	0.67
+PD86	IBD	Predict	UC	41	1	27.41	0.08
+PD87	IBD	Predict	CD	37	0	19.95	1.77
+PD88	IBD	Predict	UC	28	1	23.51	0.06
+PD89	IBD	Predict	UC	56	0	24	0.06
+PD90	IBD	Predict	CD	40	1	18.51	0.19
+PD91	IBD	Predict	CD	25	1	26.79	0.82
+PD92	IBD	Predict	CD	20	1	27.17	0.24
+PD93	IBD	Predict	UC	31	0	26.56	0.15
+PD94	IBD	Predict	CD	42	1	22.49	0.31
+PD95	IBD	Predict	CD	33	1	0	1.92
+PD96	IBD	Predict	CD	19	1	17.84	0.06
+PD97	IBD	Predict	CD	23	1	24.06	0.33
+PD98	IBD	Predict	CD	37	0	24.61	0.15
+PD99	IBD	Predict	CD	35	1	26.15	0.78
+PD100	IBD	Predict	CD	18	1	23	1.85
+PD101	IBD	Predict	UC	48	1	24.69	0.12
+PD102	IBD	Predict	UC	45	1	23.95	4.81
+PD103	IBD	Predict	UC	26	0	20.7	0.17
+PD104	IBD	Predict	UC	25	0	20.18	0.07
+PD105	IBD	Predict	UC	60	0	22.14	0.06
+PD106	IBD	Predict	UC	62	1	23.81	0.78
+PD107	IBD	Predict	CD	27	1	27.58	0.64
+PD108	IBD	Predict	UC	28	0	20.38	0.06
+PD109	IBD	Predict	UC	35	1	20.86	0.06
+PD110	IBD	Predict	UC	22	0	22.23	0.17
+PD111	IBD	Predict	UC	64	1	29.04	0.13
+PD112	IBD	Predict	UC	48	1	0	0.37
+PD113	IBD	Predict	UC	54	0	26.06	0.19
+PD114	IBD	Predict	UC	67	1	20.32	0.76
+PD115	IBD	Predict	UC	26	1	17.16	0.06
+PD116	IBD	Predict	CD	59	1	18.72	3.46
+PD117	IBD	Predict	UC	31	0	0	0.06
+PD118	IBD	Predict	UC	26	1	22.32	0.06
+PD119	IBD	Predict	UC	58	0	20.96	0.06
+PD120	IBD	Predict	UC	39	1	24.44	0.28
+PD121	IBD	Predict	CD	19	1	19.2	0.69
+PD122	IBD	Predict	UC	67	1	20.32	0.06
+PD123	IBD	Predict	CD	24	1	18.41	3.16
+PD124	IBD	Predict	UC	17	1	20.07	0.08
+PD125	IBD	Predict	CD	50	0	19.53	0.24
+PD126	IBD	Predict	UC	62	0	23.73	0.06
+PD127	IBD	Predict	UC	24	0	21.19	0.06
+PD128	IBD	Predict	UC	29	0	20.32	0.06
+PD129	IBD	Predict	UC	53	0	23.8	0.98
+PD130	IBD	Predict	CD	40	1	24.38	0.25
+PD131	IBD	Predict	UC	47	1	22.65	0.06
+PD132	IBD	Predict	UC	31	1	27.74	0.11
+PD133	IBD	Predict	UC	38	0	22.48	0.11
+PD134	IBD	Predict	UC	66	0	22.96	0.06
+PD135	IBD	Predict	UC	41	1	27.38	0.31
+PD136	IBD	Predict	UC	76	0	23.83	0.03
+PD137	IBD	Predict	UC	23	1	26.77	0.04
+PD138	IBD	Predict	UC	19	1	21.99	0.09
+PD139	IBD	Predict	UC	33	0	21.1	0.21
+PD140	IBD	Predict	CD	42	1	24.75	0.01
+PD141	IBD	Predict	CD	28	1	18.67	0.09
+PD142	IBD	Predict	CD	27	1	20.41	1.32
+PD143	IBD	Predict	UC	54	1	26.97	0.65
+PD144	IBD	Predict	CD	34	1	25.69	0.75
+PD145	IBD	Predict	UC	65	1	28.56	0.21
+PD146	IBD	Predict	UC	21	0	18.73	0.01
+PD147	IBD	Predict	CD	26	0	19.61	0.14
+PD148	IBD	Predict	UC	37	1	22.07	0.18
+PD149	IBD	Predict	CD	34	1	31.12	0.49
+PD150	IBD	Predict	UC	71	1	25.43	0.04
+PD151	IBD	Predict	CD	48	1	24.27	1.09
+PD152	IBD	Predict	UC	26	1	21.45	0.06
+PD153	IBD	Predict	UC	26	1	23.92	2.75
+PD154	IBD	Predict	UC	21	1	17.37	0.03
+PD155	IBD	Predict	UC	29	1	23.2	0.04
+PD156	IBD	Predict	UC	63	1	23.53	0.24
+PD157	IBD	Predict	UC	31	1	17.38	0.41
+PD158	IBD	Predict	UC	35	1	25.34	0.03
+PD159	IBD	Predict	UC	24	0	19.73	0.03
+PD160	IBD	Predict	CD	26	1	35.3	3.87
+PD161	IBD	Predict	UC	31	1	22.36	0.02
+PD162	IBD	Predict	UC	40	0	23.43	0.01
+PD163	IBD	Predict	CD	36	1	23.48	4.89
+PD164	IBD	Predict	CD	26	1	25.67	0.69
+PD165	IBD	Predict	UC	32	1	19.13	0.01
+PD166	IBD	Predict	UC	65	1	24.98	0.07
+PD167	IBD	Predict	CD	26	0	25.85	1.69
+PD168	IBD	Predict	CD	30	1	20.9	0.04
+PD169	IBD	Predict	UC	23	1	23.57	0.01
+PD170	IBD	Predict	CD	29	1	29.58	0.35
+PD171	IBD	Predict	CD	21	1	23.99	0.13
+PD172	IBD	Predict	UC	35	1	21.01	0.08
+PD173	IBD	Predict	CD	46	0	22.43	0.04
+PD174	IBD	Predict	CD	16	1	22.69	0.06
+PD175	IBD	Predict	CD	31	0	23.46	0.05
+PD176	IBD	Predict	UC	29	1	19.96	0.02
+PD177	IBD	Predict	CD	19	1	20.71	0.05
+PD178	IBD	Predict	CD	18	1	21.74	0.04
+PD179	IBD	Predict	UC	37	0	19.98	0.01
+PD180	IBD	Predict	UC	42	1	28.12	0.11
+PD181	IBD	Predict	UC	32	1	21.81	0.44
+PD182	IBD	Predict	UC	46	1	29.26	0.09
+PD183	IBD	Predict	UC	25	1	21.01	0.07
+PD184	IBD	Predict	UC	63	0	21.14	0.41
+PD185	IBD	Predict	UC	51	0	29.6	0.42
+PD186	IBD	Predict	UC	20	1	23.26	0.02
+PD187	IBD	Predict	UC	29	0	17.15	0.02
+PD188	IBD	Predict	UC	41	1	26.99	0.12
+PD189	IBD	Predict	UC	50	1	20.12	0.04
+PD190	IBD	Predict	UC	23	1	23.02	0.19
+PD191	IBD	Predict	UC	19	1	15.98	0.26
+PD192	IBD	Predict	UC	39	0	18.9	0.01
+PD193	IBD	Predict	UC	27	1	25.13	8.21
+PD194	IBD	Predict	CD	31	1	18.68	0.05
+PD195	IBD	Predict	UC	42	1	21.01	0.09
+PD196	IBD	Predict	UC	40	1	23.49	0.09
+PD197	IBD	Predict	UC	61	1	27.86	0.02
+PD198	IBD	Predict	UC	34	0	21.65	0.12
+PD199	IBD	Predict	UC	49	1	28.28	0.04
+PD200	IBD	Predict	UC	45	1	31.77	0.1
+PD201	IBD	Predict	UC	44	1	23.61	0.04
+PD202	IBD	Predict	UC	34	0	23.99	0.16
+PD203	IBD	Predict	UC	41	1	26.82	0.03
+PD204	IBD	Predict	UC	31	1	23.66	0.02
+PD205	IBD	Predict	UC	40	1	24.23	0.55
+PD206	IBD	Predict	UC	38	0	20.4	0.09
+PD207	IBD	Predict	UC	48	1	27.21	0.15
+PD208	IBD	Predict	UC	39	1	24.82	0.06
+PD209	IBD	Predict	UC	45	1	29.91	0.15
+PD210	IBD	Predict	UC	31	1	25.52	0.04
+PD211	IBD	Predict	UC	26	1	21.58	0.03
+PD212	IBD	Predict	CD	66	0	27.83	0.14
+PD213	IBD	Predict	UC	57	0	28.17	0.1
+PD214	IBD	Predict	UC	31	1	30.01	0.03
+PD215	IBD	Predict	UC	48	1	23.31	0.06
+PD216	IBD	Predict	CD	19	1	25.39	0.03
+PD217	IBD	Predict	CD	37	1	31.54	0.44
+PD218	IBD	Predict	UC	33	0	19.53	0.04
+PD219	IBD	Predict	UC	41	1	33.28	0.56
+PD220	IBD	Predict	CD	34	0	29.82	1.54
+PD221	IBD	Predict	CD	37	0	29.69	0.11
+PD222	IBD	Predict	UC	62	0	23.81	0.53
+PD223	IBD	Predict	CD	34	1	21	1.93
+PD224	IBD	Predict	UC	32	1	22.39	0.05
+PD225	IBD	Predict	CD	26	1	25.42	0.41
+PD226	IBD	Predict	UC	48	1	20.88	0.05
+PD227	IBD	Predict	CD	20	1	27.51	0.02
+PD228	IBD	Predict	UC	22	1	23.25	0.03
+PD229	IBD	Predict	CD	31	1	17.44	0.44
+PD230	IBD	Predict	CD	24	1	17.45	0.14
+PD231	IBD	Predict	UC	19	1	20.14	0.06
+PD232	IBD	Predict	UC	32	1	24.56	0.07
+PD233	IBD	Predict	UC	41	0	21.01	0.03
+PD234	IBD	Predict	UC	20	1	16.78	0.03
+PD235	IBD	Predict	CD	39	1	22.84	0.19
+PD236	IBD	Predict	UC	50	1	22.81	0.03
+PD237	IBD	Predict	CD	19	1	21.7	0.33
+PD238	IBD	Predict	UC	42	1	25.44	0.07
+PD239	IBD	Predict	UC	76	1	18.29	0.56
+PD240	IBD	Predict	CD	22	1	21.46	2.79
+PD241	IBD	Predict	CD	22	1	27.52	0.62
+PD242	IBD	Predict	UC	35	0	19.33	0.03
+PD243	IBD	Predict	UC	60	1	23.15	0.01
+PD244	IBD	Predict	UC	46	1	31.4	0.28
+PD245	IBD	Predict	UC	48	1	17.3	2.3
+PD246	IBD	Predict	UC	31	1	25.22	1.17
+PD247	IBD	Predict	CD	16	1	31.18	1.13
+PD248	IBD	Predict	CD	25	1	19.74	0.12
+PD249	IBD	Predict	CD	19	0	16.51	0.48
+PD250	IBD	Predict	CD	19	1	21.17	0.16
+PD251	IBD	Predict	CD	117	1	19.14	0.03
+PD252	IBD	Predict	UC	30	1	22.52	0.14
+PD253	IBD	Predict		42	1	23.12	0.06
+PD254	IBD	Predict		21	1	15.92	0.47
+PD255	IBD	Predict		18	0	16.61	1.83
+PD256	IBD	Predict		27	1	26.15	1.8
+PD257	IBD	Predict		36	1	25.22	0.44
+PD258	IBD	Predict		20	1	27.43	7.48
+PD259	IBD	Predict		21	1	22.79	5.62
+PD260	IBD	Predict		20	0	19.79	7.03
+PD261	IBD	Predict		24	0	0	8.19
+CT1	healthy control	Healthy	Control	45	0	25.5	
+CT2	healthy control	Healthy	Control	55	0	19.1	
+CT3	healthy control	Healthy	Control	45	0	20.4	
+CT4	healthy control	Healthy	Control	63	1	19.2	0.13
+CT5	healthy control	Healthy	Control	44	1	23.8	
+CT6	healthy control	Healthy	Control	43	1	26.5	
+CT7	healthy control	Healthy	Control	48	0	22.8	
+CT8	healthy control	Healthy	Control	57	0	19.5	
+CT9	healthy control	Healthy	Control	49	0	24.8	
+CT10	healthy control	Healthy	Control	43	0	19.8	
+CT11	healthy control	Healthy	Control	41	0	18.5	
+CT12	healthy control	Healthy	Control	39	0	22	
+CT13	healthy control	Healthy	Control	46	0	20.66	0.07
+CT14	healthy control	Healthy	Control	45	1	24.78	0.32
+CT15	healthy control	Healthy	Control	41	1	27	0.22
+CT16	healthy control	Healthy	Control	45	1	27	0.56
+CT17	healthy control	Healthy	Control	27	0	23.7	0.02
+CT18	healthy control	Healthy	Control	26	0	31.48	0.68
+CT19	healthy control	Healthy	Control	38	1	31.17	0.07
+CT20	healthy control	Healthy	Control	34	1	22.43	0.32
+CT21	healthy control	Healthy	Control	35	0	20.37	0.02
+CT22	healthy control	Healthy	Control	35	1	0	0.02
+CT23	healthy control	Healthy	Control	53	1	20.95	0.02
+CT24	healthy control	Healthy	Control	35	0	24.15	0.03
+CT25	healthy control	Healthy	Control	46	0	20	0.01
+CT26	healthy control	Healthy	Control	24	0	0	0.05
+CT27	healthy control	Healthy	Control	24	0	0	0.03
+CT28	healthy control	Healthy	Control	47	1	24.39	0.09
+CT29	healthy control	Healthy	Control	45	0	0	0.05
+CT30	healthy control	Healthy	Control	49	1	0	0.11
+CT31	healthy control	Healthy	Control	41	0	25.51	0.02
+CT32	healthy control	Healthy	Control	32	0	21.27	0.01
+CT33	healthy control	Healthy	Control	40	0	24.46	0.1
+CT34	healthy control	Healthy	Control	42	0	22	0.76
+CT35	healthy control	Healthy	Control	54	0	20.15	0.01
+CT36	healthy control	Healthy	Control	37	0	24.4	0.09
+CT37	healthy control	Healthy	Control	61	0	24.6	0
+CT38	healthy control	Healthy	Control	30	1	27.4	0
+CT39	healthy control	Healthy	Control	38	0	23	
+CT40	healthy control	Healthy	Control	32	0	32.3	0
+CT41	healthy control	Healthy	Control	24	1	22.2	0
+CT42	healthy control	Healthy	Control	57	1	21.7	0
+CT43	healthy control	Healthy	Control	75	1	24.9	0.14
+CT44	healthy control	Healthy	Control	70	0	21	0.02
+CT45	healthy control	Healthy	Control	34	1	27.8	0.06
+CT46	healthy control	Healthy	Control	31	0	18.9	0.02
+CT47	healthy control	Healthy	Control	29	0	22.2	0.08
+CT48	healthy control	Healthy	Control	25	0	28.4	0.08
+CT49	healthy control	Healthy	Control	51	0	22.8	0.19
+CT50	healthy control	Healthy	Control	32	0	20.1	
+CT51	healthy control	Healthy	Control	49	0	29.1	
+CT52	healthy control	Healthy	Control	70	0	24.1	
+CT53	healthy control	Healthy	Control	76	1	20.9	
+CT54	healthy control	Healthy	Control	43	1	26.1	
+CT55	healthy control	Healthy	Control	59	0	22.1	0.19
+CT56	healthy control	Healthy	Control	57	0	21	0
+CT57	healthy control	Healthy	Control	50	0	18.3	0.05
+PV1	at-risk	Prevent	Prevent	21	1	30.2	0.11
+PV2	at-risk	Prevent	Prevent	48	1	23.99	0.38
+PV3	at-risk	Prevent	Prevent	23	0	18.66	
+PV4	at-risk	Prevent	Prevent	27	1	25.29	0.44
+PV5	at-risk	Prevent	Prevent	33	0	16.84	
+PV6	at-risk	Prevent	Prevent	19	1	25.42	0.32
+PV7	at-risk	Prevent	Prevent	23	1	23.59	0.05
+PV8	at-risk	Prevent	Prevent	14	0	20	
+PV9	at-risk	Prevent	Prevent	13	1	19.39	
+PV10	at-risk	Prevent	Prevent	19	1	22.86	0.03
+PV11	at-risk	Prevent	Prevent	13	1	21.33	
+PV12	at-risk	Prevent	Prevent	10	0	18.44	
+PV13	at-risk	Prevent	Prevent	26	1	21	
+PV14	at-risk	Prevent	Prevent	23	0	17.31	
+PV15	at-risk	Prevent	Prevent	20	0	20.2	0.03
+PV16	at-risk	Prevent	Prevent	44	0	31.67	1.31
+PV17	at-risk	Prevent	Prevent	25	0	22.66	0.03
+PV18	at-risk	Prevent	Prevent	10	0	14.8	
+PV19	at-risk	Prevent	Prevent	39	0	27.89	
+PV20	at-risk	Prevent	Prevent	18	0	23.23	
+PV21	at-risk	Prevent	Prevent	11	0	12.25	
+PV22	at-risk	Prevent	Prevent	14	0	17.12	
+PV23	at-risk	Prevent	Prevent	25	0	23.05	
+PV24	at-risk	Prevent	Prevent	28	0	19.57	
+PV25	at-risk	Prevent	Prevent	17	1	24.57	
+PV26	at-risk	Prevent	Prevent	26	1	28.73	0.15
+PV27	at-risk	Prevent	Prevent	28	1	30.42	
+PV28	at-risk	Prevent	Prevent	25	0	21.67	
+PV29	at-risk	Prevent	Prevent	25	0	23.51	
+PV30	at-risk	Prevent	Prevent	38	1	38.07	0.17
+PV31	at-risk	Prevent	Prevent	27	0	20.7	
+PV32	at-risk	Prevent	Prevent	21	1	25.35	0.06
+PV33	at-risk	Prevent	Prevent	27	0	19.33	
+PV34	at-risk	Prevent	Prevent	42	0	26.11	
+PV35	at-risk	Prevent	Prevent	23	1	21.9	
+PV36	at-risk	Prevent	Prevent	21	1	22.2	
+PV37	at-risk	Prevent	Prevent	24	0	17.3	0.02
+PV38	at-risk	Prevent	Prevent	21	1	23.75	0.09
+PV39	at-risk	Prevent	Prevent	30	1	21.93	
+PV40	at-risk	Prevent	Prevent	25	0	18.22	
+PV41	at-risk	Prevent	Prevent	26	0	20.7	0.02
+PV42	at-risk	Prevent	Prevent	42	1	22.2	0.03
+PV43	at-risk	Prevent	Prevent	21	1	23.05	0.1
+PV44	at-risk	Prevent	Prevent	27	0	19.54	0.04
+PV45	at-risk	Prevent	Prevent	19	0	20.7	
+PV46	at-risk	Prevent	Prevent	27	0	18.82	
+PV47	at-risk	Prevent	Prevent	25	1	24.17	
+PV48	at-risk	Prevent	Prevent	56	0	18.67	0.14
+PV49	at-risk	Prevent	Prevent	11	0	20.41	0.13
+PV50	at-risk	Prevent	Prevent	8	1	16.8	0.07
+PV51	at-risk	Prevent	Prevent	28	1	27.1	0.13
+PV52	at-risk	Prevent	Prevent	26	0	21.94	0.03
+PV53	at-risk	Prevent	Prevent	10	1	18.17	0.02
+PV54	at-risk	Prevent	Prevent	10	1	17.21	0.02
+PV55	at-risk	Prevent	Prevent	19	1	23.84	1.72
+PV56	at-risk	Prevent	Prevent	29	0	36.16	0.42
+PV57	at-risk	Prevent	Prevent	18	0	20.5	0.08
+PV58	at-risk	Prevent	Prevent	29	1	23.67	0.04
+PV59	at-risk	Prevent	Prevent	64	0	20.84	0.1
+PV60	at-risk	Prevent	Prevent	32	1	32.38	0.33
+PV61	at-risk	Prevent	Prevent	32	1	23.95	0.06
+PV62	at-risk	Prevent	Prevent	63	1	30.19	0.61
+PV63	at-risk	Prevent	Prevent	44	0	20.99	0.04
+PV64	at-risk	Prevent	Prevent	30	0	29.81	0.59
+PV65	at-risk	Prevent	Prevent	18	1	31.21	
+PV66	at-risk	Prevent	Prevent	42	1	25.7	0.11
+PV67	at-risk	Prevent	Prevent	18	1	24.26	
+PV68	at-risk	Prevent	Prevent	22	1	20.24	0.37
+PV69	at-risk	Prevent	Prevent	16	1	22.72	0.21
+PV70	at-risk	Prevent	Prevent	32	1	24.9	0.06
+PV71	at-risk	Prevent	Prevent	30	0	25.15	0.08
+PV72	at-risk	Prevent	Prevent	27	1	37.04	0.05
+PV73	at-risk	Prevent	Prevent	41	1	22.72	0.07
+PV74	at-risk	Prevent	Prevent	20	0	15.62	0.05
+PV75	at-risk	Prevent	Prevent	52	0	28.91	
+PV76	at-risk	Prevent	Prevent	41	1	26.28	0.31
+PV77	at-risk	Prevent	Prevent	39	0	17.36	1.41
+PV78	at-risk	Prevent	Prevent	24	1	22.57	
+PV79	at-risk	Prevent	Prevent	27	0	21.26	0.06
+PV80	at-risk	Prevent	Prevent	34	1	25.47	0.47
+PV81	at-risk	Prevent	Prevent	29	1	25.06	
+PV82	at-risk	Prevent	Prevent	28	1	23.67	0.2
+PV83	at-risk	Prevent	Prevent	62	1	26.64	0.12
+PV84	at-risk	Prevent	Prevent	53	0	27.59	1.09
+PV85	at-risk	Prevent	Prevent	47	0	22.45	0.16
+PV86	at-risk	Prevent	Prevent	55	0	19.14	0.07
+PV87	at-risk	Prevent	Prevent	68	1	23.04	0.16
+PV88	at-risk	Prevent	Prevent	25	1	22.86	
+PV89	at-risk	Prevent	Prevent	56	1	22.15	1.18
+PV90	at-risk	Prevent	Prevent	42	1	29.6	0.04
+PV91	at-risk	Prevent	Prevent	23	1	22.4	0.06
+PV92	at-risk	Prevent	Prevent	34	1	19.05	0.08
+PV93	at-risk	Prevent	Prevent	20	1	21.37	0.19
+PV94	at-risk	Prevent	Prevent	57	1	24.67	0.13
+PV95	at-risk	Prevent	Prevent	42	0	31.95	0.12
+PV96	at-risk	Prevent	Prevent	24	0	18.07	0.02
+PV97	at-risk	Prevent	Prevent	62	0	22.2	0.14
+PV98	at-risk	Prevent	Prevent	49	1	30.54	0.09
+PV99	at-risk	Prevent	Prevent	51	0	25.02	1.12
+PV100	at-risk	Prevent	Prevent	30	1	32.31	
+PV101	at-risk	Prevent	Prevent	55	0	23.47	0.02
+PV102	at-risk	Prevent	Prevent	50	1		0.12
+PV103	at-risk	Prevent	Prevent	30	0	21.02	0.07
+PV104	at-risk	Prevent	Prevent	20	1		0.1
+PV105	at-risk	Prevent	Prevent	53	1	23.78	0.94
+PV106	at-risk	Prevent	Prevent	15	1	14.59	0.03
+PV107	at-risk	Prevent	Prevent	36	1	29.76	0.35
+PV108	at-risk	Prevent	Prevent	35	1	22.76	0.1
+PV109	at-risk	Prevent	Prevent	36	1	28.47	0.19
+PV110	at-risk	Prevent	Prevent	20	1	26.88	0.12
+PV111	at-risk	Prevent	Prevent	49	0	22.18	0.05
+PV112	at-risk	Prevent	Prevent	59	0		0.04
+PV113	at-risk	Prevent	Prevent	20	1	25.06	0.04
+PV114	at-risk	Prevent	Prevent	33	0	19.68	0.06
+PV115	at-risk	Prevent	Prevent	29	1	23.69	0.04
+PV116	at-risk	Prevent	Prevent	33	1	35.48	0.05
+PV117	at-risk	Prevent	Prevent	31	1	23.15	
+PV118	at-risk	Prevent	Prevent	11	1	23.34	0.07
+PV119	at-risk	Prevent	Prevent	11	1	20.34	0.17
+PV120	at-risk	Prevent	Prevent	20	1	23.05	0.11
+PV121	at-risk	Prevent	Prevent	63	0	18.37	0.02
+PV122	at-risk	Prevent	Prevent	22	0	25.51	0.04
+PV123	at-risk	Prevent	Prevent	66	0	22.97	0.13
+PV124	at-risk	Prevent	Prevent	49	1	27.86	
+PV125	at-risk	Prevent	Prevent	57	0	27.56	0.37
+PV126	at-risk	Prevent	Prevent	39	1	34.78	0.2
+PV127	at-risk	Prevent	Prevent	63	1	21.71	0.18
+PV128	at-risk	Prevent	Prevent	69	1	25.09	0.08
+PV129	at-risk	Prevent	Prevent	66	0	24.23	0.06
+PV130	at-risk	Prevent	Prevent	47	0	21.35	0.06
+PV131	at-risk	Prevent	Prevent	27	1	33.2	0.61
+PV132	at-risk	Prevent	Prevent	71	0	19.86	0.07
+PV133	at-risk	Prevent	Prevent	45	1	29.7	0.19
+PV134	at-risk	Prevent	Prevent	52	0	31.34	0.08
+PV135	at-risk	Prevent	Prevent	61	1	20.96	0.21
+PV136	at-risk	Prevent	Prevent	51	0	24.02	1.14
+PV137	at-risk	Prevent	Prevent	40	1	25.78	0.65
+PV138	at-risk	Prevent	Prevent	59	0	25.11	0.09
+PV139	at-risk	Prevent	Prevent	29	1	19.11	0.08
+PV140	at-risk	Prevent	Prevent	62	0	30.52	0.47
+PV141	at-risk	Prevent	Prevent	30	0	19.69	0.03
+PV142	at-risk	Prevent	Prevent	25	1	26.12	0.04
+PV143	at-risk	Prevent	Prevent	75	1	27.1	0.32
+PV144	at-risk	Prevent	Prevent	56	1	22.68	0.03
+PV145	at-risk	Prevent	Prevent	75	0	25.43	0.05
+PV146	at-risk	Prevent	Prevent	58	1	24.05	0.07
+PV147	at-risk	Prevent	Prevent	33	1	27.94	
+PV148	at-risk	Prevent	Prevent	62	1	26.27	
+PV149	at-risk	Prevent	Prevent	67	0	25.22	0.06
+PV150	at-risk	Prevent	Prevent	50	0	30.75	0.15
+PV151	at-risk	Prevent	Prevent	55	0	20.59	0.07
+PV152	at-risk	Prevent	Prevent	73	1	22.08	0.99
+PV153	at-risk	Prevent	Prevent	67	0	36.57	0.17
+PV154	at-risk	Prevent	Prevent	33	1	18.94	0.09
+PV155	at-risk	Prevent	Prevent	53	1	21.68	0.24
+PV156	at-risk	Prevent	Prevent	28	1	25.95	0.05
+PV157	at-risk	Prevent	Prevent	56	0	26.15	0.06
+PV158	at-risk	Prevent	Prevent	42	1	25.98	0.17
+PV159	at-risk	Prevent	Prevent	60	1	30.12	0.18
+PV160	at-risk	Prevent	Prevent	18	1	19.88	0.07
+PV161	at-risk	Prevent	Prevent	50	0	20.8	0.08
+PV162	at-risk	Prevent	Prevent	50	1	25.54	0.72
+PV163	at-risk	Prevent	Prevent	27	0	21.26	0.05
+PV164	at-risk	Prevent	Prevent	46	1	26.13	0.13
+PV165	at-risk	Prevent	Prevent	46	0	20.8	0.05
+PV166	at-risk	Prevent	Prevent	65	0	25.97	0.13
